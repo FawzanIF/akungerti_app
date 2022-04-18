@@ -1,0 +1,41 @@
+import 'dart:async';
+import 'dart:io';
+
+import 'package:akungerti_app/bloc/blocs.dart';
+import 'package:akungerti_app/models/models.dart';
+import 'package:akungerti_app/services/services.dart';
+import 'package:akungerti_app/shared/shared.dart';
+import 'package:akungerti_app/ui/widgets/widgets.dart';
+import 'package:email_validator/email_validator.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'package:cloud_firestore/cloud_firestore.dart';
+import 'package:flushbar/flushbar.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter_spinkit/flutter_spinkit.dart';
+import 'package:google_fonts/google_fonts.dart';
+import 'package:intl/intl.dart';
+import 'package:provider/provider.dart';
+import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:chewie/chewie.dart';
+import 'package:video_player/video_player.dart';
+import 'package:url_launcher/url_launcher.dart';
+import 'package:path/path.dart';
+import 'package:flutter/services.dart';
+
+
+part 'sign_in_page.dart';
+part 'wrapper.dart';
+part 'main_page.dart';
+part 'splash_page.dart';
+part 'menu_page.dart';
+part 'sign_up_page.dart';
+part 'preference_page.dart';
+part 'account_confirmation_page.dart';
+part 'choose_page.dart';
+part 'saintek_page.dart';
+part 'mapel_page.dart';
+part 'konten.dart';
+part 'chewie_list.dart';
+part 'materi_page.dart';
+part 'motivasi_page.dart';
+part 'edit_profile.dart';

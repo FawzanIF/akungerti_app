@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393121876911",
+    "project_id": "akungerti-6d705",
+    "storage_bucket": "akungerti-6d705.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393121876911:android:d3a41c05bdc26e99ecfd5a",
+        "android_client_info": {
+          "package_name": "com.example.akungerti_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393121876911-8noc9cht5v9b3qi9q2doprtpq9cr5kks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHTUSVMKdFnrIKmotiLMdyeTFALWVlclg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393121876911-8noc9cht5v9b3qi9q2doprtpq9cr5kks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
